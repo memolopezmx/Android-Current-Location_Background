@@ -2,7 +2,15 @@ Android Get Current Location In Background
 =======
 
 <p align="center">
-	<img src="" width="540" height="960">
+	<img src="https://github.com/ginppian/Android-Current-Location_Background/blob/master/imgs/img2.png" width="270" height="480">
+</p>
+
+<p align="center">
+	<img src="https://github.com/ginppian/Android-Current-Location_Background/blob/master/imgs/img3.png" width="270" height="480">
+</p>
+
+<p align="center">
+	<img src="https://github.com/ginppian/Android-Current-Location_Background/blob/master/imgs/img1.png" width="270" height="480">
 </p>
 
 ## Descripción
@@ -19,13 +27,13 @@ Android Get Current Location In Background
 
 * Agregamos lo siguiente al archivo *AndroidManifest.xml*
 
-```
+```java
 	<service android:name=".MyService" android:process=":my_service" />
 ```
 
 <p align="justify">De tal manera que quede así</p>
 
-```android
+```java
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="mx.paracrecer.paracrecer1">
@@ -90,7 +98,7 @@ Android Get Current Location In Background
 
 * Creamos nuestro servicio implementando de manera anidada *LocationListener*
 
-```android
+```java
 import android.app.Service;
 import android.content.Context;
 import android.content.Intent;
