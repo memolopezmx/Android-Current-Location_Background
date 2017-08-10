@@ -26,7 +26,7 @@ Android Get Current Location In Background
 * Agregamos lo siguiente al archivo *AndroidManifest.xml*
 
 ```java
-	<service android:name=".MyService" android:process=":my_service" />
+<service android:name=".MyService" android:process=":my_service" />
 ```
 
 <p align="justify">De tal manera que quede así</p>
@@ -227,7 +227,7 @@ public class MyService extends Service {
 
 * Implementamos en nuestros mapas
 
-```
+```java
 import android.Manifest;
 import android.content.Context;
 import android.content.pm.PackageManager;
