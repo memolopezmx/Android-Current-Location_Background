@@ -497,6 +497,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 * <a href="http://www.magicsite.cn/a104-89869-android">Best way to get user GPS location in background in Android</a>
 * <a href="https://stackoverflow.com/questions/28535703/best-way-to-get-user-gps-location-in-background-in-android">Best way to get user GPS location in background in Android</a>
 * <a href="https://stackoverflow.com/questions/14478179/background-service-with-location-listener-in-android">Background service with location listener in android</a>
+* <a href="https://stackoverflow.com/questions/13991301/android-maps-api-v2-draw-circle">Android Maps API v2 draw circle</a>
 
 ## Testing
 
