@@ -3,15 +3,13 @@ Android Get Current Location In Background
 
 <p align="center">
 	<img src="https://github.com/ginppian/Android-Current-Location_Background/blob/master/imgs/img2.png" width="270" height="480">
+		<img src="https://github.com/ginppian/Android-Current-Location_Background/blob/master/imgs/img3.png" width="270" height="480">
+			<img src="https://github.com/ginppian/Android-Current-Location_Background/blob/master/imgs/img1.png" width="270" height="480">
+
+
 </p>
 
-<p align="center">
-	<img src="https://github.com/ginppian/Android-Current-Location_Background/blob/master/imgs/img3.png" width="270" height="480">
-</p>
 
-<p align="center">
-	<img src="https://github.com/ginppian/Android-Current-Location_Background/blob/master/imgs/img1.png" width="270" height="480">
-</p>
 
 ## Descripción
 
