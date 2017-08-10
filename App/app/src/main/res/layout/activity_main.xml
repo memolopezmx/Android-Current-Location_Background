@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="mx.paracrecer.paracrecer1.MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="158dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="34sp"
+        android:scaleType="fitCenter"
+        android:paddingTop="33dp"
+        android:src="@drawable/logo"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="102dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="55sp"
+            android:layout_height="47sp"
+            android:paddingLeft="11sp"
+            android:src="@drawable/user"
+            />
+
+        <EditText
+            android:id="@+id/editText"
+            android:layout_width="290dp"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:paddingLeft="8sp"
+            android:paddingRight="28sp"
+            android:hint="nombre@paracrecer.mx"
+            tools:layout_editor_absoluteX="118dp"
+            tools:layout_editor_absoluteY="242dp"
+            android:text="ginppian@gmail.com"
+            />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="102dp"
+        android:orientation="horizontal">
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="60sp"
+            android:layout_height="50sp"
+            android:paddingLeft="7sp"
+            android:src="@drawable/pass"
+            />
+
+        <EditText
+            android:id="@+id/editText2"
+            android:layout_width="290dp"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPassword"
+            android:paddingLeft="8sp"
+            android:paddingRight="10sp"
+            android:hint="*****"
+            tools:layout_editor_absoluteX="118dp"
+            tools:layout_editor_absoluteY="312dp"
+            android:text="1234"
+            />
+    </LinearLayout>
+
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:text="Login"
+        android:layout_margin="13sp"
+        tools:layout_editor_absoluteY="430dp"
+        tools:layout_editor_absoluteX="16dp"
+        android:layout_weight="0.17"
+        android:clickable="true"
+        />
+
+</LinearLayout>

@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "40846854712",
+    "firebase_url": "https://pcubicacion.firebaseio.com",
+    "project_id": "pcubicacion",
+    "storage_bucket": "pcubicacion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40846854712:android:280a87a200322df3",
+        "android_client_info": {
+          "package_name": "mx.paracrecer.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40846854712-srq4m5th7mg6h7jej9f1vomj41bpjgsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA201VMwlwtPvws9h6W7orvkbEhoQYuCLY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40846854712:android:a441f0932dea8950",
+        "android_client_info": {
+          "package_name": "mx.paracrecer.paracrecer1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40846854712-srq4m5th7mg6h7jej9f1vomj41bpjgsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA201VMwlwtPvws9h6W7orvkbEhoQYuCLY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
